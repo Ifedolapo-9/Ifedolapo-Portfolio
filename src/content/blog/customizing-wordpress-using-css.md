@@ -1,10 +1,9 @@
 ---
-title: "Demo Post 3"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+title: "Customising your WordPress website using CSS and Google Developer tools"
+description: "In this article, we will explore five spectacular features of Bard AI that make it stand out among AI chatbots"
 pubDate: "Sep 12 2022"
-heroImage: "/post_img.webp"
-badge: "Demo badge"
-tags: ["rust","tokio"]
+heroImage: "/wordpress-theming.jpg"
+tags: ["wordpress","css", "js", "web-development"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
