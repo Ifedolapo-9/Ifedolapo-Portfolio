@@ -1,7 +1,7 @@
 ---
 title: "An introduction to Google's Bard"
 description: "A guide on using Bard AI to make best out of it."
-pubDate: "Sep 11 2022"
+pubDate: "Sep 31 2022"
 heroImage: "/bard.jpg"
 ---
 
