@@ -3,6 +3,7 @@ title: "An introduction to Google's Bard"
 description: "A guide on using Bard AI to make best out of it."
 pubDate: "Sep 31 2022"
 heroImage: "/bard.jpg"
+url: "https://medium.com/@ifedolapoojow/exploring-bard-5-free-impressive-features-that-set-it-apart-e54b04a9ca64"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
