@@ -25,7 +25,7 @@ It wasn't just about writing words; it was about building knowledge.
 
 3. **Bridging the Knowledge Gap**: My expertise in software documentation, communication, and Postman ensured the technical details were translated into digestible, actionable information. No developer was left behind.
 
-4. **The Impact**: The meticulously crafted documentation became an invaluable asset, empowering developers to leverage the API's capabilities with confidence. The client witnessed a surge in user engagement and adoption, a testament to the power of clear, effective technical communication.
+4. **The Impact**: The meticulously crafted documentation became an invaluable asset, empowering developers to leverage the API's capabilities with confidence.
 
 This project represents just one example of my ability to transform complex information into accessible knowledge, empowering users and driving product success.
 
