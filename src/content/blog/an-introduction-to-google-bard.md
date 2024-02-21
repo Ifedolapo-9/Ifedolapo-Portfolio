@@ -1,7 +1,7 @@
 ---
-title: "An introduction to Google's Bard"
-description: "A guide on using Bard AI to make best out of it."
-pubDate: "Sep 31 2022"
+title: "Exploring Bard: 5 Free Impressive Features That Set It Apart"
+description: "In this article, we will explore five spectacular features of Bard AI that make it stand out among AI chatbots"
+pubDate: "Dec 29 2023"
 heroImage: "/bard.jpg"
 url: "https://medium.com/@ifedolapoojow/exploring-bard-5-free-impressive-features-that-set-it-apart-e54b04a9ca64"
 ---

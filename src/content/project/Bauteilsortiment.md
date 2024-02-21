@@ -1,6 +1,7 @@
 ---
 title: "BTS API Documentation Improvement Project"
 description: "This project involved contributing to the open-source documentation of the `BTS API`, a Django backend server providing various endpoints"
+pubDate: "Sep 23 2023"
 heroImage: "/bts.jpg"
 url: "https://github.com/nomike/Bauteilsortiment"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Customising your WordPress website using CSS and Google Developer tools"
-description: "In this article, we will explore five spectacular features of Bard AI that make it stand out among AI chatbots"
-pubDate: "Sep 12 2022"
+description: "In this article, we will explore how to use CSS in conjuction with Chrome developer tools to customize your preferred WordPress theme"
+pubDate: "Oct 23 2023"
 heroImage: "/wordpress-theming.jpg"
 tags: ["wordpress", "css", "js", "web-development"]
 url: "https://medium.com/@ifedolapoojow/easy-customizing-of-wordpress-themes-using-css-and-chrome-developer-tools-95f46645c36f"
