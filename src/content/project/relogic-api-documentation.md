@@ -4,7 +4,6 @@ description: "API documentation using Postman for critical API endpoints related
 pubDate: "Nov 23 2024"
 heroImage: "/relogic.jpg"
 url: "https://relogicapi.avlinkpro.com/"
-badge: "NEW"
 ---
 
 ## From Endpoints to Enlightenment: Building API Docs that Empower Developers

@@ -4,6 +4,7 @@ import HorizontalCard from "../components/HorizontalCard.astro";
 import { getCollection } from "astro:content";
 
 const projects = await getCollection("project")
+
 ---
 
 <BaseLayout title = "Projects" sideBarActiveItemID="projects">
