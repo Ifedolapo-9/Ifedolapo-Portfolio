@@ -4,6 +4,7 @@ const projectSchema = z.object({
   title: z.string(),
   description: z.string(),
   heroImage: z.string().optional(),
+  pubDate: z.date(),
   badge: z.string().optional(),
   url: z.string().optional(),
 });

@@ -1,7 +1,7 @@
 ---
 title: "Dancity Transaction Checker"
 description: "The Dancity Transaction Checker aims to automate manual checking of transaction history for failed transfers"
-pubDate: "Oct 23 2023"
+pubDate: 2024-01-02
 heroImage: "/web-scraping.jpg"
 url: "https://github.com/Ifedolapo-9/Dancity-Transaction-Checker"
 ---
