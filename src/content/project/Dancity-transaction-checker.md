@@ -1,5 +1,5 @@
 ---
-title: "Dancity Transaction Checker"
+title: "Project Details: Dancity Transaction Checker"
 description: "The Dancity Transaction Checker aims to automate manual checking of transaction history for failed transfers"
 pubDate: 2024-01-02
 heroImage: "/web-scraping.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Expensify Postman Collection"
+title: "Project Details: Expensify Postman Collection"
 description: "Built a reusable Postman collection to streamline Expensify API interactions for a client"
 pubDate: 2024-04-02
 heroImage: "/expensify.jpg"

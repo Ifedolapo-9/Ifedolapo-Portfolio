@@ -1,5 +1,5 @@
 ---
-title: "Relogic API Documentation"
+title: "Project Details: Relogic API Documentation"
 description: "API documentation using Postman for critical API endpoints related to Relay state management"
 pubDate: 2024-02-02
 heroImage: "/relogic.jpg"

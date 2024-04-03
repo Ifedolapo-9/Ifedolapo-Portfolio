@@ -1,5 +1,5 @@
 ---
-title: "BTS API Documentation Improvement Project"
+title: "Project Details: BTS API Documentation Improvement"
 description: "This project involved contributing to the open-source documentation of the `BTS API`, a Django backend server providing various endpoints"
 pubDate: 2023-11-02
 heroImage: "/bts.jpg"

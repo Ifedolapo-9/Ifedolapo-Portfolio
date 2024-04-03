@@ -1,5 +1,5 @@
 ---
-title: "Siemans Desigo User Manual"
+title: "Project Details: Siemans Desigo User Manual"
 description: "Created Siemans Desigo user manual for software developers with special use cases"
 pubDate: 2024-04-01
 heroImage: "/desigo.png"
