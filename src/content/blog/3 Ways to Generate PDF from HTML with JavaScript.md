@@ -1,6 +1,6 @@
 ---
 title: "3 Ways to Generate PDF from HTML with JavaScript"
-description: "In this article, we will explore popular JavaScript libraries for HTML to PDF conversion (Use VPN if the link isn't going through)"
+description: "In this article, we will explore popular JavaScript libraries for HTML to PDF conversion (Kindly use a VPN if the link isn't going through)"
 pubDate: "June 16 2024"
 heroImage: "/pdfapiarticle.jpeg"
 tags: ["PDF Generator API", "JavaScript", "HTML", "Backend"]
