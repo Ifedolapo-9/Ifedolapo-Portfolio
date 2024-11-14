@@ -5,7 +5,7 @@ import { getCollection } from "astro:content";
 
 const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-const last_posts = posts.slice(0, 3);
+const last_posts = posts.slice(0, 12);
 ---
 
 <BaseLayout sideBarActiveItemID="home">
@@ -15,7 +15,7 @@ const last_posts = posts.slice(0, 3);
     <div class="text-3xl py-3 font-bold">Technical Writer</div>
     <div class="py-2">
       <text class="text-lg">
-        <p>I am a technical writer with over <b>2 years of experience</b>, passionate about simplifying complex concepts, and crafting clear engaging API documentation.
+        <p>I am a technical writer with about <b>3 years of experience</b>, passionate about simplifying complex concepts, and crafting clear engaging API documentation.
         I am skilled in Python, and proficient in using tools like Mkdocs, Swagger, Postman, and Jira for seamless project flow.</p> 
 
         <p> After experiencing firsthand the frustration that comes with unclear APIs, I am committed to user-friendly and comprehensive documentation.
@@ -32,6 +32,27 @@ const last_posts = posts.slice(0, 3);
     <div class="text-3xl w-full font-bold mb-2">My Work</div>
   </div>
 
+  <HorizontalCard
+    title="Webscraping Article for the Social Proxy"
+    img="/socialproxy.png"
+    desc="How to Scrape Reviews from Trustpilot"
+    url="https://thesocialproxy.com/2024/10/08/how-to-scrape-reviews-from-trustpilot/"
+  /> 
+  <div class="divider my-0"></div>  
+  <HorizontalCard
+    title="KeyTalk API Documentation"
+    img="/keytalk.png"
+    desc="Transformed KeyTalk's API from PDF to web version"
+    url="https://documenter.getpostman.com/view/28050470/2sA3sAgncC#8c872955-86a8-468b-83e4-17ffd1a40a1d"
+  /> 
+  <div class="divider my-0"></div>  
+  <HorizontalCard
+    title="API Documentation with Docusaurus"
+    img="/docusaurus.png"
+    desc="Built Docs site with Docusaurus"
+    url="https://docusaurus-demo-by-ife.netlify.app/docs/API/authentication"
+  />    
+  <div class="divider my-0"></div>  
   <HorizontalCard
     title="Upgrade Chat CRM API Documentation"
     img="/mkupgrade.png"
