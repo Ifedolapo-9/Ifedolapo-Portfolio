@@ -1,8 +1,8 @@
 ---
 title: "How to Scrape Reviews from Trustpilot"
 description: "In this article we will learn how to Web scrape Trustpilot using Python with Selenium"
-heroImage: "/socialproxy.png"
 pubDate: "Oct 4 2024"
+heroImage: "/socialproxy.png"
 tags: ["Web Scraping", "Python", "Selenium", "Backend"]
 url: "https://thesocialproxy.com/2024/10/08/how-to-scrape-reviews-from-trustpilot/"
 ---
