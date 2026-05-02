@@ -19,7 +19,7 @@ const sorted_projects = projects.sort((a, b) => b.data.pubDate.valueOf() - a.dat
         title={project.data.title}
         img={project.data.heroImage}
         desc={project.data.description}
-        url={"/projects/" + project.slug }
+        url={"/projects/" + project.id}
         badge={project.data?.badge}
       />
       <div class="divider my-0"></div>
